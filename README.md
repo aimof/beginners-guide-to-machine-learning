@@ -9,8 +9,8 @@ This repository is a guide of learning __Artificial Intelligence__ and __Machine
 
 ## The Table of Contents
 
-* [Machine Learning](##Machine-Learning)
-  * [Required knowledge](###Required-knowledge)
+* [Machine Learning](#machine-learning)
+  * [Required knowledge](#required-knowledge)
   *
 
 
