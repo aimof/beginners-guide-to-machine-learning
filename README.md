@@ -9,8 +9,8 @@ This repository is a guide of learning __Artificial Intelligence__ and __Machine
 
 ## The Table of Contents
 
-* Machine Learning
-  * Requirements
+* [Machine Learning](## Machine Learning)
+  * [Required knowledge](### Required knowledge)
   *
 
 
@@ -19,7 +19,7 @@ This repository is a guide of learning __Artificial Intelligence__ and __Machine
 
 ### Required knowledge
 
-If you want to learn about required knowledge, please read (this page)[./English/requirements.md].
+If you want to learn about required knowledge, please read [requirements.md](./English/requirements.md).
 
 * Math
   * Linear Algebra
