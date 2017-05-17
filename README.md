@@ -9,15 +9,15 @@ This repository is a guide of learning __Artificial Intelligence__ and __Machine
 
 ## The Table of Contents
 
-* [Machine Learning](## Machine Learning)
-  * [Required knowledge](### Required knowledge)
+* [Machine Learning](##Machine-Learning)
+  * [Required knowledge](###Required-knowledge)
   *
 
 
 
 ## Machine Learning
 
-### Required knowledge
+### Required Knowledge
 
 If you want to learn about required knowledge, please read [requirements.md](./English/requirements.md).
 
