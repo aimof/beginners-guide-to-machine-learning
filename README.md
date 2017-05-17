@@ -1,23 +1,40 @@
-# Beginners' Guide to Artificial Intelligence
+# the Beginners' Guide to Artificial Intelligence
 
-This repository is a guide of learning __Artificial Intelligence__ for beginners. The guide mainly explain machine learning.  The contents of this is links to online resources.
+This repository is a guide of learning __Artificial Intelligence__ and __Machine Learning__ for beginners. The guide mainly explain machine learning.  The contents of this is links to online resources.
 
-## Select your language.　The each language versions are not just a translation.
+## Select your language
 
 * English(Read this file)
 * 日本語
 
-## The Guide
+## The Table of Contents
 
-* What is Artificial Intelligence?  How does it work for us?
-* What is Machine Learning?
+* Machine Learning
+  * Requirements
+  *
 
 
+
+## Machine Learning
+
+### Required knowledge
+
+If you want to learn about required knowledge, please read (this page)[./English/requirements.md].
+
+* Math
+  * Linear Algebra
+  * Calculus
+  * Statics
+  * Probability
+* Computer Science
+  * Algorithm
+* Programming
+  * Python/R/C++/Matlab ...
 
 
 ## contribution
 
-We welcome to Pull-Request or Issues.
+I welcome to Pull-Requests or Issues.
 
 ## multilingual support.
 
