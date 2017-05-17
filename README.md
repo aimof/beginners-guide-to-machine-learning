@@ -4,8 +4,8 @@ This repository is a guide of learning __Machine Learning__ for beginners. The g
 
 ## Select your language
 
-* English(Read this file)
-* 日本語
+* [English(Read this file)](#the-table-of-contents)
+* [日本語](./日本語/README.md)
 
 ## The purpose of this guide
 
@@ -20,7 +20,7 @@ The purpose of this guide is two. The one is that you finish the online machine 
 * [Advanced Guide](#advanced-guide)
   * [Competition](#Competition)
   * [Libraries](#libraries)
-  * []
+  * [Cloud](#cloud)
 
 
 ## Learning Step
@@ -79,18 +79,18 @@ I recommend you to use python and python-libraries, so I introduce you to instal
 
 ### Cloud
 
-
-
 Coming Soon...
 
-## contribution
+## About this guide
+
+### contribution
 
 I welcome to Pull-Requests or Issues.
 
-## multilingual support.
+### multilingual support.
 
 The guide will provides multilingual support but now supported languages are English and Japanese.  If you want to learn in other languages, please send Pull-Request.
 
-## Editor and Founder
+### Editor
 
-The guide is mainly edited by aimof. The main editor is a Japanese engineer. The founder of this project is Daisuke Ishii.
+The guide is mainly edited by aimof.
