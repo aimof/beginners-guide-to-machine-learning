@@ -1,6 +1,6 @@
-# the Beginners' Guide to Machine Learning
+# __the Beginners' Guide to Machine Learning__
 
-This repository is a guide of learning __Machine Learning__ for beginners. The guide mainly explain machine learning.  The contents of this is links to online resources.
+This repository is a guide of learning __Machine Learning__ for beginners. almost all of the contents is links to (online) resources.
 
 ## Select your language
 
@@ -9,34 +9,45 @@ This repository is a guide of learning __Machine Learning__ for beginners. The g
 
 ## The purpose of this guide
 
-The purpose of this guide is two. The one is that you finish the online machine learning course without difficulty. The other is that you don't miss direction after courses.
+Directing your self-learning about machine learning.
 
 ## The Table of Contents
 
-* [Learning Step](#learning-step)
 * [Machine Learning](#machine-learning)
+  * [Learning Step](#learning-step)
+  * [Online Courses](#online-courses)
   * [Requirements](#requirements)
   * [Environmental Settings](#environmental-settings)
+  * [program machine learning](#program-machine-learning)
 * [Advanced Guide](#advanced-guide)
   * [Competition](#Competition)
   * [Libraries](#libraries)
   * [Cloud](#cloud)
 
+## Machine Learning
+
+There are a lot of resources to learn but
+
 
 ## Learning Step
 
-1. Take an online courses
-2. Learn or Relearn required knowledge if you have difficulty
-3. Build your environment to program some algorithm
-4. Finish your course
-5. Select the way you learn advance.
+* Take an [online courses](#online-courses) or read beginners' e-books
+  * Learn required knowledge if you're needed
+  * Build your environment to program some algorithm
+* Finish your course
+* Program your first machine learning program.
+* advanced learning
 
-## Machine Learning
+
+
+### Online Courses
 
 There are some well-known online courses learning Machine Learning.
 
 * [Coursera: Stanford Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning): This is basic machine learning course. It may be the most popular learning resource. This is perfect except using Octave.
 * [Udacity: Intro to machine learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+
+### Beginners' e-books
 
 ### Requirements
 
@@ -57,6 +68,8 @@ The below is the list of Required knowledge. If you  If you want to learn about 
 ### Environmental settings
 
 I recommend you to use python and python-libraries, so I introduce you to install those in the [environment page](./English/environment.md).
+
+### program machine learning
 
 ## Advanced Guide
 
