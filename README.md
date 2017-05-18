@@ -118,4 +118,4 @@ The guide will provides multilingual support but now supported languages are Eng
 
 ### Editor
 
-The guide is mainly edited by aimof.
+The guide is mainly edited by aimof. Licensed BSD 3-Clause License.
