@@ -28,21 +28,12 @@ Directing your self-learning about machine learning.
 
 ## Machine Learning
 
-There are a lot of resources to learn but
+There are two approach to learn machine learning.
 
+* You primarily learn theory of machine learning. After you understand basic machine learning theory, you build something.
+* You don't effort to understand and build something you need many times. After that, you try to understand the theory of machine learning
 
-## Learning Step
-
-* Introduction
-  * Take an [online courses](#online-courses) or read [beginners' e-books](#beginners-e-books)
-  * Learn [required knowledge](#required-knowledge) if you're needed
-  * [Build your environment](#environmental-settings) to program some algorithm
-* [Program your first machine learning software](#program-machine-learning) to understand the mechanism of machine learning
-* Learn how to [apply machine learning](#apply-machine-learning)
-  * Learn how to use [libraries](#libraries-or-machine-learning-tools)
-  * learn [clouds](#clouds)
-* [advanced learning](#advanced-guide)
-
+In this guide, you learn the basic theory before you build something useful. But you don't have to understand the theory perfectly. If you understand roughly, it's time to build something.
 
 ### Online Courses
 
@@ -51,14 +42,20 @@ There are some well-known online courses learning Machine Learning.
 * [Coursera: Stanford Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning): This is basic machine learning course. It may be the most popular learning resource. This is perfect except using Octave.
 * [Udacity: Intro to machine learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 
+Online courses are useful free online resources. Recently, trying online courses is the best way to learn something.
+
+I found a lot of online courses, when I search in Google. But you may learn "Coursera Stanford Machine learning" first.
+
 ### Beginners' e-books
 
 Coming soon ...
 
 ### Required knowledge
 
-The below is the list of Required knowledge. If you  If you want to learn about required knowledge, please read [requirements](./English/requirements.md).
+The below is the list of Required knowledge. The most of online courses and e-books set required knowledge. If you want to learn about required knowledge or you don't meet requirements, please read [requirements page](./English/requirements.md).
 
+* Programming
+  * Python (/R/C++/Matlab ...)
 * Math
   * Linear Algebra
   * Calculus
@@ -68,18 +65,21 @@ The below is the list of Required knowledge. If you  If you want to learn about 
 * Computer Science
   * Algorithm
   * Data Structure
-* Programming
-  * Python/R/C++/Matlab ...
 
 ### Environmental settings
 
 I recommend you to use python and python-libraries, so I introduce you to install those in the [environment page](./English/environment.md).
 
-## Program machine learning
+I also recommend you to use [Anaconda](https://www.continuum.io/downloads) and Jupyter. I wrote [an example of using Jupyter notebook](./python3/example_of_jupyter_notebook). Jupyter is powerful tool to learn or research.
 
-Program your first machine learning software to understand the mechanism of machine leearning.
+## Advanced Guide
 
-## Apply Machine Learning
+If you learn the basic of machine learning, you have several choices.
+
+* build your applications with using [libraries and tools](#libraries-and-tools)
+* build something on [clouds](#clouds)
+* build your simple machine learning software from scratch
+* participate some [competitions](#competition) and prove your machine learning skill
 
 ### Libraries and tools
 
@@ -98,13 +98,13 @@ Program your first machine learning software to understand the mechanism of mach
 
 coming soon ...
 
-## Advanced Guide
+## Program machine learning from scratch
+
+Program your first machine learning software to understand the mechanism of machine learning.
 
 ### Competition
 
-[Kaggle](https://www.kaggle.com/): Kaggle is a hosting service of data science competition. data science is one of the most popular purpose of machine learning.
-
-
+[Kaggle](https://www.kaggle.com/): Kaggle is a hosting service of data science competition. Data science is one of the practice of machine learning.
 
 ## About this guide
 
