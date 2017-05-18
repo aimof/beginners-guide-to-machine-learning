@@ -70,7 +70,7 @@ The below is the list of Required knowledge. The most of online courses and e-bo
 
 I recommend you to use python and python-libraries, so I introduce you to install those in the [environment page](./English/environment.md).
 
-I also recommend you to use [Anaconda](https://www.continuum.io/downloads) and Jupyter. I wrote [an example of using Jupyter notebook](./English/python3/example_of_jupyter_notebook.ipynp). Jupyter is powerful tool to learn or research.
+I also recommend you to use [Anaconda](https://www.continuum.io/downloads) and Jupyter. I wrote [an example of using Jupyter notebook](./English/python3/example_of_jupyter_notebook.ipynb). Jupyter is powerful tool to learn or research.
 
 ## Advanced Guide
 
