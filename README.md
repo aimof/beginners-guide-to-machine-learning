@@ -14,15 +14,17 @@ Directing your self-learning about machine learning.
 ## The Table of Contents
 
 * [Machine Learning](#machine-learning)
-  * [Learning Step](#learning-step)
+* [Learning Step](#learning-step)
   * [Online Courses](#online-courses)
-  * [Requirements](#requirements)
+  * [Beginners' e-books](#beginners-e-books)
+  * [Required Knowledge](#required-knowledge)
   * [Environmental Settings](#environmental-settings)
   * [program machine learning](#program-machine-learning)
+* [Apply Machine Learning](#apply-machine-learning)
+  * [Libraries](#libraries-or-tools)
+  * [Clouds](#clouds)
 * [Advanced Guide](#advanced-guide)
   * [Competition](#Competition)
-  * [Libraries](#libraries)
-  * [Cloud](#cloud)
 
 ## Machine Learning
 
@@ -31,13 +33,15 @@ There are a lot of resources to learn but
 
 ## Learning Step
 
-* Take an [online courses](#online-courses) or read beginners' e-books
-  * Learn required knowledge if you're needed
-  * Build your environment to program some algorithm
-* Finish your course
-* Program your first machine learning program.
-* advanced learning
-
+* Introduction
+  * Take an [online courses](#online-courses) or read [beginners' e-books](#beginners-e-books)
+  * Learn [required knowledge](#required-knowledge) if you're needed
+  * [Build your environment](#environmental-settings) to program some algorithm
+* [Program your first machine learning software](#program-machine-learning) to understand the mechanism of machine learning
+* Learn how to [apply machine learning](#apply-machine-learning)
+  * Learn how to use [libraries](#libraries-or-machine-learning-tools)
+  * learn [clouds](#clouds)
+* [advanced learning](#advanced-guide)
 
 
 ### Online Courses
@@ -49,7 +53,9 @@ There are some well-known online courses learning Machine Learning.
 
 ### Beginners' e-books
 
-### Requirements
+Coming soon ...
+
+### Required knowledge
 
 The below is the list of Required knowledge. If you  If you want to learn about required knowledge, please read [requirements](./English/requirements.md).
 
@@ -69,15 +75,13 @@ The below is the list of Required knowledge. If you  If you want to learn about 
 
 I recommend you to use python and python-libraries, so I introduce you to install those in the [environment page](./English/environment.md).
 
-### program machine learning
+## Program machine learning
 
-## Advanced Guide
+Program your first machine learning software to understand the mechanism of machine leearning.
 
-### Competition
+## Apply Machine Learning
 
-[Kaggle](https://www.kaggle.com/): Kaggle is a hosting service of data science competition. data science is one of the most popular purpose of machine learning.
-
-### Libraries
+### Libraries and tools
 
 |Library|what is this?|Lang|
 |:--|:--|:--|
@@ -90,9 +94,17 @@ I recommend you to use python and python-libraries, so I introduce you to instal
 |[ThensorFlow](https://www.tensorflow.org/)|numerical computation using data flow graph|Python|
 |[WEKA](http://www.cs.waikato.ac.nz/ml/weka/)|data mining software|Java|
 
-### Cloud
+### Clouds
 
-Coming Soon...
+coming soon ...
+
+## Advanced Guide
+
+### Competition
+
+[Kaggle](https://www.kaggle.com/): Kaggle is a hosting service of data science competition. data science is one of the most popular purpose of machine learning.
+
+
 
 ## About this guide
 

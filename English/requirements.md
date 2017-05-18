@@ -1,5 +1,7 @@
 # Required knowledge to learn Machine Learning
 
+* Programming
+  * Python/R/C++/Matlab ...
 * Math
   * Linear Algebra
   * Calculus
@@ -7,5 +9,3 @@
   * Probability
 * Computer Science
   * Algorithm
-* Programming
-  * Python/R/C++/Matlab ...
