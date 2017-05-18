@@ -19,11 +19,10 @@ Directing your self-learning about machine learning.
   * [Beginners' e-books](#beginners-e-books)
   * [Required Knowledge](#required-knowledge)
   * [Environmental Settings](#environmental-settings)
-  * [program machine learning](#program-machine-learning)
-* [Apply Machine Learning](#apply-machine-learning)
+* [Advanced Guide](#advanced-guide)
   * [Libraries](#libraries-or-tools)
   * [Clouds](#clouds)
-* [Advanced Guide](#advanced-guide)
+  * [program machine learning](#program-machine-learning-from-scratch)
   * [Competition](#Competition)
 
 ## Machine Learning
