@@ -81,6 +81,12 @@ If you learn the basic of machine learning, you have several choices.
 * build your simple machine learning software from scratch
 * participate some [competitions](#competition) and prove your machine learning skill
 
+### What is your purpose or difficulty
+
+If you want to more understand the theory or you feel your understanding is not so perfect, [building your simple machine learning software from scratch](#program-machine-learning-from-scratch) is helpful to your understanding. It is a good way to understand something that program this.
+
+If you want to program something with some libraries, I recommend to try [Open AI Gym](https://gym.openai.com/)([github](https://github.com/openai/gym)). 
+
 ### the Libraries and tools
 
 I recommend you some machine learning libraries, next step. If you cannot use Jupyter notebook, you are needed to set up. Please read [the environment section on this page](#environmental-settings) or [the environmental setting page](./English/environment)
@@ -100,7 +106,7 @@ Program your first machine learning software to understand the mechanism of mach
 
 ### Competition
 
-[Kaggle](https://www.kaggle.com/): Kaggle is a hosting service of data science competition. Data science is one of the practice of machine learning.
+[Kaggle](https://www.kaggle.com/): Kaggle is a hosting service of data science competition. Data science is one of the practice of machine learning. Please read [the Kaggle guide page](./English/Kaggle/README.md).
 
 ## About this guide
 
