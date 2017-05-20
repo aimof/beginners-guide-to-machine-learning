@@ -52,7 +52,7 @@ Coming soon ...
 
 ### Required knowledge
 
-The below is the list of Required knowledge. The most of online courses and e-books set required knowledge. If you want to learn about required knowledge or you don't meet requirements, please read [requirements page](./English/requirements.md).
+The below is the list of Required knowledge. The most of online courses and e-books set required knowledge. If you want to learn about required knowledge or you don't meet requirements, please read [requirements page](./English/requirements/README.md).
 
 * Programming
   * Python (/R/C++/Matlab ...)
@@ -68,9 +68,9 @@ The below is the list of Required knowledge. The most of online courses and e-bo
 
 ### Environmental settings
 
-I recommend you to use python and python-libraries, so I introduce you to install those in the [environment page](./English/environment.md).
+I recommend you to use python and python-libraries, so I introduce you to install those in the [environment page](./English/environment/README.md).
 
-I also recommend you to use [Anaconda](https://www.continuum.io/downloads) and Jupyter. I wrote [an example of using Jupyter notebook](./English/python3/example_of_jupyter_notebook.ipynb). Jupyter is powerful tool to learn or research.
+I also recommend you to use [Anaconda](https://www.continuum.io/downloads) and Jupyter. I wrote [an example of using Jupyter notebook](./English/python3_jupyter/example_of_jupyter_notebook.ipynb). Jupyter is powerful tool to learn or research.
 
 ## Advanced Guide
 
@@ -81,18 +81,14 @@ If you learn the basic of machine learning, you have several choices.
 * build your simple machine learning software from scratch
 * participate some [competitions](#competition) and prove your machine learning skill
 
-### Libraries and tools
+### the Libraries and tools
 
-|Library|what is this?|Lang|
-|:--|:--|:--|
-|[Caffe](http://caffe.berkeleyvision.org/)|Deep learning Frame work|Python|
-|[CUDA](https://developer.nvidia.com/cuda-downloads)|for creating high performance GPU-accelerated applications|
-|[nengo](https://github.com/nengo/nengo)|creating and simulating large scale brain models|Python|
-|[Open AI Gym](https://gym.openai.com/)|toolkit for reinforcement learning|Python|
-|[Scikit-learn](http://scikit-learn.org/stable/)|data mining and data analysis|Python|
-|[Theano](http://deeplearning.net/software/theano/)|python library for multi-dimensional array|Python|
-|[ThensorFlow](https://www.tensorflow.org/)|numerical computation using data flow graph|Python|
-|[WEKA](http://www.cs.waikato.ac.nz/ml/weka/)|data mining software|Java|
+I recommend you some machine learning libraries, next step. If you cannot use Jupyter notebook, you are needed to set up. Please read [the environment section on this page](#environmental-settings) or [the environmental setting page](./English/environment)
+
+* [Open AI Gym](https://gym.openai.com/)([github](https://github.com/openai/gym)): This is a reinforcement learning library. An example of program made through Open AI Gym is Game AI. If you interested in old games like Atari, it is a great choice to play Open AI Gym.
+*
+
+Or you want to use other libraries or tools, please read [The Guide of Libraries and tools](./Engilish/Libraries/README.md).
 
 ### Clouds
 
