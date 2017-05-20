@@ -40,6 +40,7 @@ There are some well-known online courses learning Machine Learning.
 
 * [Coursera: Stanford Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning): This is basic machine learning course. It may be the most popular learning resource. This is perfect except using Octave.
 * [Udacity: Intro to machine learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+* [Machine Learning Tutorials and Courses(hackr.io)](https://hackr.io/tutorials/learn-machine-learning-ml): other links of learning materials.
 
 Online courses are useful free online resources. Recently, trying online courses is the best way to learn something.
 
@@ -110,6 +111,8 @@ Program your first machine learning software to understand the mechanism of mach
 ### contribution
 
 I welcome to Pull-Requests or Issues.
+
+[contributers' list](./English/contributers.md)
 
 ### multilingual support.
 
